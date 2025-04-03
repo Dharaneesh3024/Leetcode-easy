@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
 ## Matrix
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
