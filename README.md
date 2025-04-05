@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0724-find-pivot-index) |
+| [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
 | [1833-find-the-highest-altitude](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
