@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
