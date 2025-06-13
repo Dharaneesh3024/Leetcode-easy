@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1660-thousand-separator) |
 | [1894-merge-strings-alternately](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
