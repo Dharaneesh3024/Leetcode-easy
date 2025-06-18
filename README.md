@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0898-transpose-matrix) |
+| [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1755-defuse-the-bomb) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0283-move-zeroes) |
+| [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [0961-long-pressed-name](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0961-long-pressed-name) |
 | [1894-merge-strings-alternately](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1894-merge-strings-alternately) |
 | [2634-minimum-common-value](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2634-minimum-common-value) |
@@ -109,8 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0088-merge-sorted-array) |
+| [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
