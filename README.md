@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0240-search-a-2d-matrix-ii) |
 | [2634-minimum-common-value](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2634-minimum-common-value) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
