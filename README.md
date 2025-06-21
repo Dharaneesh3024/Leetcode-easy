@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
