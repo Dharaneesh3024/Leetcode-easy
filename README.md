@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3617-find-the-original-typed-string-i) |
 ## Prefix Sum
 |  |
 | ------- |
