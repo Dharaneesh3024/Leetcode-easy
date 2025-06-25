@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
+| [1580-shuffle-the-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1833-find-the-highest-altitude) |
