@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-max-pair-sum-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2902-max-pair-sum-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2383-add-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2383-add-two-integers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
