@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0507-perfect-number) |
 | [1048-clumsy-factorial](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1048-clumsy-factorial) |
+| [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2383-add-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2383-add-two-integers) |
@@ -186,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1961-maximum-ice-cream-bars) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
