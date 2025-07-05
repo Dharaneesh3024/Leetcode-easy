@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1961-maximum-ice-cream-bars) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2386-min-max-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2386-min-max-game) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2634-minimum-common-value) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2902-max-pair-sum-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0898-transpose-matrix) |
 | [1048-clumsy-factorial](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1048-clumsy-factorial) |
+| [2386-min-max-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Database
