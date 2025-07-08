@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2386-min-max-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2386-min-max-game) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2634-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-angle-between-hands-of-a-clock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2383-add-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2383-add-two-integers) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3676-smallest-number-with-all-set-bits) |
