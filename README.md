@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0240-search-a-2d-matrix-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2634-minimum-common-value](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2634-minimum-common-value) |
+| [3790-fruits-into-baskets-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
