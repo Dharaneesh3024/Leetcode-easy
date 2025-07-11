@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1660-thousand-separator) |
 | [1894-merge-strings-alternately](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2580-circular-sentence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2383-add-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2383-add-two-integers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
