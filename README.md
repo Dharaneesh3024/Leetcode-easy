@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0520-detect-capital) |
 | [0961-long-pressed-name](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0961-long-pressed-name) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
