@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0029-divide-two-integers) |
+| [0476-number-complement](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0476-number-complement) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
