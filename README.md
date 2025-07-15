@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0196-delete-duplicate-emails) |
 | [1153-product-sales-analysis-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Dynamic Programming
