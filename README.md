@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0932-monotonic-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1580-shuffle-the-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0898-transpose-matrix) |
 | [1048-clumsy-factorial](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1048-clumsy-factorial) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2386-min-max-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-clumsy-factorial](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1048-clumsy-factorial) |
 | [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1630-count-odd-numbers-in-an-interval-range) |
