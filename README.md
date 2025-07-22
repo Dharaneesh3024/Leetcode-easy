@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0048-rotate-image) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
