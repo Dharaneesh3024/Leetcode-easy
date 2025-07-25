@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2551-apply-operations-to-an-array) |
+| [2857-total-distance-traveled](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2857-total-distance-traveled) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2383-add-two-integers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2857-total-distance-traveled](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2857-total-distance-traveled) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3830-find-closest-person) |
