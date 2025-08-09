@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0507-perfect-number) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0476-number-complement) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3790-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
