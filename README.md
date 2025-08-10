@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2383-add-two-integers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2857-total-distance-traveled](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2857-total-distance-traveled) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3172-divisible-and-non-divisible-sums-difference) |
