@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2383-add-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2383-add-two-integers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1961-maximum-ice-cream-bars](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1961-maximum-ice-cream-bars) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3226-minimum-number-game) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
