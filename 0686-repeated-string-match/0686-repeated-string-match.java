@@ -11,11 +11,9 @@ class Solution {
         }
         a += original;
         count++;
-
         if (a.contains(b)) {
             return count;
         }
-
         return -1;
     }
 }
