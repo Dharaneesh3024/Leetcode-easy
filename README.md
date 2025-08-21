@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0686-repeated-string-match](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0686-repeated-string-match) |
 | [0961-long-pressed-name](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0961-long-pressed-name) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
