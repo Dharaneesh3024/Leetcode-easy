@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1635-number-of-good-pairs) |
 | [1755-defuse-the-bomb](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1635-number-of-good-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1961-maximum-ice-cream-bars](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1961-maximum-ice-cream-bars) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
