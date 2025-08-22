@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0643-maximum-average-subarray-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0503-next-greater-element-ii) |
 | [1048-clumsy-factorial](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1048-clumsy-factorial) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0686-repeated-string-match) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
