@@ -14,9 +14,5 @@ class Solution {
                 right--;
             }
             else{
-                --right;
-            }
-        }
-        return ma;
-    }
-}
+                --right;} }
+        return ma;}}
