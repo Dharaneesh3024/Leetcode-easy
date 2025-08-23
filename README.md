@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0088-merge-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0412-fizz-buzz) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
