@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
@@ -364,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
