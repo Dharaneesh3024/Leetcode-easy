@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0503-next-greater-element-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1019-squares-of-a-sorted-array) |
