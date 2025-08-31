@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0503-next-greater-element-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0435-non-overlapping-intervals) |
 | [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
 ## Two Pointers
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1019-squares-of-a-sorted-array) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1341-split-a-string-in-balanced-strings) |
