@@ -384,4 +384,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
