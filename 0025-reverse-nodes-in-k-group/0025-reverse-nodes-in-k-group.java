@@ -13,7 +13,7 @@ class Solution {
         if (head == null) return null;
 
         ListNode tail = head;
-        for (int i = 0; i <k; i--) {
+        for (int i = 0; i <k; i++) {
             if (tail == null) return head;
             tail = tail.next;
         }
