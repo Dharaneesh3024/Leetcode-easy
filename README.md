@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1610-xor-operation-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0476-number-complement) |
+| [1610-xor-operation-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1610-xor-operation-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
