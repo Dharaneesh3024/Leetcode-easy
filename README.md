@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
 | [1503-reducing-dishes](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1503-reducing-dishes) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0476-number-complement) |
 | [1610-xor-operation-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1610-xor-operation-in-an-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Trie
 |  |
 | ------- |
