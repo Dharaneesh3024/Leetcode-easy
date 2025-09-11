@@ -7,14 +7,9 @@ class Solution {
         for(int i=0;i<s.length();i++){
             if("AEIOUaeiou".contains(String.valueOf(ch[i]))){
                 ind_arr.add(i);
-                vow_arr.add(ch[i]);
-            }
-        }
+                vow_arr.add(ch[i]);}}
         Collections.sort(vow_arr);
         for(int i:ind_arr){
-            ch[i]=vow_arr.get(ind++);
-        }
+            ch[i]=vow_arr.get(ind++);}
         return new String(ch);
-
-    }
-}
+    }}
