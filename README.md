@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2580-circular-sentence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3617-find-the-original-typed-string-i) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2502-sort-the-people) |
+| [2887-sort-vowels-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
