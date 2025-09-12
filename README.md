@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3830-find-closest-person) |
@@ -366,10 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3462-vowels-game-in-a-string) |
 ## Segment Tree
 |  |
 | ------- |
