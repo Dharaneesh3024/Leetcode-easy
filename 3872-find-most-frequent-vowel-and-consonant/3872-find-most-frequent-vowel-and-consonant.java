@@ -10,6 +10,6 @@ class Solution {
             }
             else{
                 max_con=Math.max(max_con,freq[i]);
-            }        }
+            }}
     return max_vow+max_con;
     }}
