@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2902-max-pair-sum-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3194-find-words-containing-character](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3226-minimum-number-game) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2887-sort-vowels-in-a-string) |
+| [3194-find-words-containing-character](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3462-vowels-game-in-a-string) |
