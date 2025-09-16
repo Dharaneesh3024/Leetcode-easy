@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3194-find-words-containing-character) |
+| [3312-number-of-changing-keys](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3462-vowels-game-in-a-string) |
