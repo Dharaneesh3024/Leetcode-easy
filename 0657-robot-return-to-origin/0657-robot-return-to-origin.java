@@ -5,19 +5,13 @@ class Solution {
         int y=0;
       for(int i=0;i<ch.length;i++){
         if(ch[i]=='U'){
-            y++;
-        }
+            y++;}
        else if(ch[i]=='D'){
-            y--;
-        }
+            y--;}
        else if(ch[i]=='L'){
-            x--;
-        }
+            x--;}
         else{
-            x++;
-        }
-      
+            x++;}  
       } 
       return ((x==y) && (x==0)); 
-    }
-}
+    }}
