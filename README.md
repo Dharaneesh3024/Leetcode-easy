@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-max-pair-sum-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2902-max-pair-sum-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3872-find-most-frequent-vowel-and-consonant) |
