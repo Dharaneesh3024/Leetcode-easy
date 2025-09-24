@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0206-reverse-linked-list) |
