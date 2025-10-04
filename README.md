@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0160-intersection-of-two-linked-lists) |
@@ -493,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
