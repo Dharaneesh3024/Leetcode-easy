@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1415-students-and-examinations](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1837-daily-leads-and-partners](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1837-daily-leads-and-partners) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Dynamic Programming
 |  |
