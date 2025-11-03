@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2383-add-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2481-strictly-palindromic-number) |
+| [2507-number-of-common-factors](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2507-number-of-common-factors](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2507-number-of-common-factors) |
 ## String Matching
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2507-number-of-common-factors](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2507-number-of-common-factors) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Union Find
 |  |
