@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0503-next-greater-element-ii) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0199-binary-tree-right-side-view) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0543-diameter-of-binary-tree) |
