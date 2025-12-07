@@ -10,18 +10,13 @@ private void backtrack(List<List<Integer>> result,
                        int[] candidates,
                        int remain,
                        int start) {
-
     if (remain == 0) {
         result.add(new ArrayList<>(current));
-        return;
-    }
-
+        return;}
     for (int i = start; i < candidates.length; i++) {
         int value = candidates[i];
         if (value > remain) break;
         current.add(value);
         backtrack(result, current, candidates, remain - value, i);
         current.remove(current.size() - 1);
-    }
-}
-}
+    }}}
