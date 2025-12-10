@@ -1,27 +1,15 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int left=0;
-        int n=nums.length;
-        int right=1;
-        int rep=0;
-        int nxt=0;
-        int total=n*(n+1)/2;
-        int arraySum=0;
-        for(int i:nums){
-            arraySum+=i;
+        int n = nums.length;
+        int[] freq = new int[n+1];
+        int dup = 0, missing = 0;
+        for (int num : nums) {
+            freq[num]++;
         }
-        Arrays.sort(nums);
-        while(right!=n){
-            if(nums[left]==nums[right]){
-                rep=nums[left];
-                nxt = total-(arraySum-rep);
-                return new int[]{rep,nxt};
-            }
-            else{
-                left++;
-                right++;
-            }
+        for (int i = 1; i <= n; i++) {
+            if (freq[i] == 2) dup = i;
+            if (freq[i] == 0) missing = i;
         }
-        return nums;
+        return new int[]{dup, missing};
     }
 }
