@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0739-daily-temperatures) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0645-set-mismatch) |
 | [1610-xor-operation-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1610-xor-operation-in-an-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1468-check-if-n-and-its-double-exist) |
