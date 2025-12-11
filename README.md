@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1264-maximum-number-of-words-you-can-type) |
