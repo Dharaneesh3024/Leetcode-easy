@@ -3,14 +3,9 @@ class Solution {
         Map<Integer, Integer> hm = new HashMap<>();
         int sum = 0;
         for (int num : nums) {
-            hm.put(num, hm.getOrDefault(num, 0) + 1);
-        }
+            hm.put(num, hm.getOrDefault(num, 0) + 1);}
         for (int num : nums) {
             if (hm.get(num) % k == 0) {
                 sum += num;
-            }
-        }
-
-        return sum;
-    }
-}
+            } }
+        return sum; }}
