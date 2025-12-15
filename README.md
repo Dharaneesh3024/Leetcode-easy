@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3533-snake-in-matrix) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3778-transform-array-by-parity](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/3872-find-most-frequent-vowel-and-consonant) |
