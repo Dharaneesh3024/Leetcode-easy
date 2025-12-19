@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0283-move-zeroes) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1086-divisor-game) |
