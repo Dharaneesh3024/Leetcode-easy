@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0932-monotonic-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0944-delete-columns-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0686-repeated-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-long-pressed-name](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0961-long-pressed-name) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1302-delete-characters-to-make-fancy-string) |
