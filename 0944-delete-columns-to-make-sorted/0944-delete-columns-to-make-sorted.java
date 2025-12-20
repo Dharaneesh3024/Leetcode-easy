@@ -8,10 +8,6 @@ class Solution {
                 if(strs[j].charAt(i) < strs[j-1].charAt(i)){
                     count++;
                     break;
-                }
-            }
-        }
+                } } }
         return count;
-
-    }
-}
+    }}
