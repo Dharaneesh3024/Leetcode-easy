@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1925-count-square-sum-triples](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2383-add-two-integers](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2383-add-two-integers) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1925-count-square-sum-triples) |
 | [2507-number-of-common-factors](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2507-number-of-common-factors) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Union Find
