@@ -13,9 +13,7 @@ class Solution {
                 char p1=s1.peek();
                  if(p1=='#'){
                 s1.pop();
-            }
-            }
-           
+            }     }  
         }
         for(int i=0;i<t.length();i++){
             if(t.charAt(i)=='#' && !s2.isEmpty()){
@@ -28,11 +26,8 @@ class Solution {
                 char p2=s2.peek();
                  if(p2=='#'){
                 s2.pop();
-            }
-            }
+            }  }
         }
-        System.out.println(s1);
-        System.out.println(s2);
         return s1.equals(s2);
     }
 }
