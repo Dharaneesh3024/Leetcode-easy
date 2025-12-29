@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0844-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0898-transpose-matrix) |
 | [1048-clumsy-factorial](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1048-clumsy-factorial) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0844-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [0961-long-pressed-name](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1019-squares-of-a-sorted-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0686-repeated-string-match) |
+| [0844-backspace-string-compare](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-long-pressed-name](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0961-long-pressed-name) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0844-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1048-clumsy-factorial) |
 | [2470-removing-stars-from-a-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
