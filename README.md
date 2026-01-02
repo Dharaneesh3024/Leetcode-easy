@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0932-monotonic-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
