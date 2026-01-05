@@ -11,11 +11,9 @@ class Solution {
 
         for (int i = 0; i < cnt.length; i++) {
             while (cnt[i] > 0) {
-                // if double does not exist
                 if (i * 2 >= cnt.length || cnt[i * 2] <= 0) {
                     return new int[0];
                 }
-
                 cnt[i]--;
                 cnt[i * 2]--;
                 ans[idx++] = i;
