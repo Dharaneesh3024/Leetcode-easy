@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0435-non-overlapping-intervals) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Dharaneesh3024/Leetcode-easy/tree/master/0412-fizz-buzz) |
